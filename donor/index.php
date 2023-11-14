@@ -71,7 +71,7 @@ include("dbcon.php");
                     } else {
                         echo '
 							<div class="alert alert-danger alert-dismissible">
-                                Invalid Username & Password.
+                                Invalid Username & Password..
                             </div> ';
                     }
                 }
